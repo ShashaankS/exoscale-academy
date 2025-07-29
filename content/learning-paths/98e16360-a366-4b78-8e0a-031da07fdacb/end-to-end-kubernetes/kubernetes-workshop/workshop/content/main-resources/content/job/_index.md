@@ -1,4 +1,5 @@
 ---
+type: "module"
 title: "Jobs & CronJobs"
 description: "One-off and scheduled tasks"
 weight: 5

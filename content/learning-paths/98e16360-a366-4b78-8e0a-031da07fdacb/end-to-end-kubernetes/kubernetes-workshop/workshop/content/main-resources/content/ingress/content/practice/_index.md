@@ -1,4 +1,5 @@
 ---
+type: "page"
 title: "Practice"
 weight: 2
 ---

@@ -1,4 +1,5 @@
 ---
+type: "module"
 title: "Configuration"
 description: "Manage configuration and sensitive data"
 weight: 1

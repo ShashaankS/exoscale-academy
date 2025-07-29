@@ -1,4 +1,5 @@
 ---
+type: "module"
 title: "Storage"
 description: "Persistent storage solutions"
 weight: 8

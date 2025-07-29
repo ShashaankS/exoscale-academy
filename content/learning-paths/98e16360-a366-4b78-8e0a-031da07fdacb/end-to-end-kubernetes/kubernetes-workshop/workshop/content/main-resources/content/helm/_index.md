@@ -1,4 +1,5 @@
 ---
+type: "module"
 title: "Helm"
 description: "Application management"
 weight: 3

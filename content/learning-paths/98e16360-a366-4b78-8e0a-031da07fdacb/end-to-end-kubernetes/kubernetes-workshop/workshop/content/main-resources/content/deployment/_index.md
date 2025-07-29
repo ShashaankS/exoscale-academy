@@ -1,4 +1,5 @@
 ---
+type: "module"
 title: "Deployment"
 description: "Manage Pods lifecycle"
 weight: 2

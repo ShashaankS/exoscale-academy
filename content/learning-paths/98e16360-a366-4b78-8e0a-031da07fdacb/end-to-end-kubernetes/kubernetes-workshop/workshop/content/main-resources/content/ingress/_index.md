@@ -1,4 +1,5 @@
 ---
+type: "module"
 title: "Ingress"
 description: "External access management"
 weight: 4

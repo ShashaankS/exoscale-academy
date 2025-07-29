@@ -1,4 +1,5 @@
 ---
+type: "module"
 title: "Service"
 description: "Network exposure and load balancing"
 weight: 7

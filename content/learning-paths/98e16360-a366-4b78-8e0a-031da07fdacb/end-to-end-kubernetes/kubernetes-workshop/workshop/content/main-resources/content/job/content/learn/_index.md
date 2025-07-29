@@ -1,6 +1,6 @@
 ---
+type: "page"
 title: "Learn"
-lectures: 1
 weight: 2
 ---
 

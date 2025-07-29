@@ -1,4 +1,5 @@
 ---
+type: "page"
 title: "Learn"
 weight: 2
 ---

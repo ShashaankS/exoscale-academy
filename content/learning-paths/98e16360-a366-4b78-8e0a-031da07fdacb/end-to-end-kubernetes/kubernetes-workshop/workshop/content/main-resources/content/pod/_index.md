@@ -1,4 +1,5 @@
 ---
+type: "module"
 title: "Pod"
 description: "Building blocks for running containers"
 weight: 6

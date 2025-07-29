@@ -1,6 +1,7 @@
 ---
+type: "page"
 title: "Learn"
-weight: 4
+weight: 2
 ---
 
 ## What is a Service ?

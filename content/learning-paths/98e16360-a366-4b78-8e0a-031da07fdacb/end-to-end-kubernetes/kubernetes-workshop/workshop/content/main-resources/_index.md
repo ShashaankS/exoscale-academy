@@ -1,4 +1,5 @@
 ---
+type: "module"
 title: "Resources"
 description: "Learn and Practice Main Resources"
 weight: 3
