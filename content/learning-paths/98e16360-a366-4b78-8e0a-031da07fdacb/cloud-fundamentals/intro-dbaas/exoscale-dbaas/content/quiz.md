@@ -23,7 +23,7 @@ questions:
         text: "Fully Managed"
         is_correct: true
 
-  - id: "q1"
+  - id: "q2"
     text: "What are features of Exoscale DBaaS?"
     type: "mcq"
     multiple_answers: true
