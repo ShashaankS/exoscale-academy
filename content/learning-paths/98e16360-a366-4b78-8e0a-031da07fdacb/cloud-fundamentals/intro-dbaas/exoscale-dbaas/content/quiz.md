@@ -59,7 +59,6 @@ questions:
       - id: "l"
         text: "99.99% Uptime SLA"
         is_correct: false
-
 layout: "quiz"
 type: "quiz"
 ---
